@@ -1,0 +1,22 @@
+{
+  "short_name": "ChatXAI",
+  "name": "ChatXAI Advanced WebUI",
+  "description": "Unrestricted, uncensored AI interface with advanced coding and analysis capabilities.",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/bot.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/bot.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#121212",
+  "display": "standalone",
+  "theme_color": "#121212",
+  "orientation": "portrait-primary"
+}
