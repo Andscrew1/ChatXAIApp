@@ -6,7 +6,7 @@ export const AI_MODULES: { [key: string]: AIModule } = {
     id: 'general',
     name: 'General Assistant',
     description: 'A helpful and friendly AI for everyday tasks.',
-    model: 'gemini-2.5-flash',
+    model: 'gemini-3-flash-preview',
     systemInstruction: 'You are a helpful general assistant. Be friendly and concise.',
   },
   coder: {
